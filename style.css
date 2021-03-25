@@ -1,3 +1,10 @@
+h1{
+  color: #3cb878;
+}
+a{
+  color: #3cb878;
+  font-family: 'Open Sans';
+}
 .container{
   max-width: 600px;
   margin-left: auto;
